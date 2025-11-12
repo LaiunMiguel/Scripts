@@ -1,0 +1,23 @@
+{
+    "included_folders": [],
+    "selected_types": [
+        "Documentos",
+        "Imágenes",
+        "Videos",
+        "Música",
+        "Archivos comprimidos",
+        "Ejecutables",
+        "Scripts"
+    ],
+    "flag_others": true,
+    "flag_replaceFiles": false,
+    "folder_names": {
+        "Documentos": "Documentos",
+        "Imágenes": "Imágenes",
+        "Videos": "Videos",
+        "Música": "Sonidos",
+        "Archivos comprimidos": "Archivos comprimidos",
+        "Ejecutables": "Aplicaciones",
+        "Scripts": "Scripts"
+    }
+}
